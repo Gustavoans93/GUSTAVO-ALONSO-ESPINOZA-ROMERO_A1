@@ -1,3 +1,3 @@
-# GUSTAVO-ALONSO-ESPINOZA-ROMERO_A1
+"LENGUAJES DE PROGRAMACIÓN"
 Gustavo Alonso Espinoza Romero_1
-lenguajes de programación
+
