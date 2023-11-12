@@ -1,3 +1,2 @@
-"LENGUAJES DE PROGRAMACIÓN"
-Gustavo Alonso Espinoza Romero_1
+"LENGUAJES DE PROGRAMACIÓN"lenguajes de programación"
 
